@@ -1,0 +1,530 @@
+(dp0
+S'Dinka Northeastern'
+p1
+I42
+sS'Nahuatl Northern Puebla'
+p2
+I102
+sS'Ignaciano'
+p3
+I29
+sS'Albanian Tosk'
+p4
+I36
+sS'Konso'
+p5
+I7
+sS'Dangaleat'
+p6
+I99
+sS'Palauan'
+p7
+I159
+sS'Guayabero'
+p8
+I168
+sS'Teso'
+p9
+I105
+sS'Yali Angguruk'
+p10
+I63
+sS'Naga Ao'
+p11
+I147
+sS'Tepehua Pisaflores'
+p12
+I123
+sS'Kyrgyz'
+p13
+I96
+sS'Fai South'
+p14
+I140
+sS'Quechua Eastern'
+p15
+I64
+sS'Koorete'
+p16
+I162
+sS'Korean North'
+p17
+I108
+sS'Quechua Southern Pastaza'
+p18
+I87
+sS'Huli'
+p19
+I27
+sS'Shilluk'
+p20
+I93
+sS'Huave de San Mateo del Mar'
+p21
+I150
+sS'Duala'
+p22
+I61
+sS'Jola Kasa'
+p23
+I100
+sS'Kok Borok'
+p24
+I26
+sS'Hmong Daw'
+p25
+I0
+sS'Khmer Northern'
+p26
+I144
+sS'Morisyen'
+p27
+I107
+sS'Quechua Southern Conchucos Ancash'
+p28
+I47
+sS'Munukutuba'
+p29
+I58
+sS'Jur Modo'
+p30
+I88
+sS'Alangan'
+p31
+I119
+sS'Cakchiquel South Central'
+p32
+I56
+sS'Hadiyya'
+p33
+I86
+sS'ShipiboConibo'
+p34
+I12
+sS'Nahuatl Highland Puebla'
+p35
+I110
+sS'CandoshiShapra'
+p36
+I11
+sS'Hiligaynon'
+p37
+I46
+sS'Zapotec Sierra de Juarez'
+p38
+I16
+sS'Ilokano'
+p39
+I161
+sS'Bench'
+p40
+I146
+sS'Mentawai'
+p41
+I92
+sS'Peve'
+p42
+I115
+sS'Sebat Bet Gurage_Gurage Chaha'
+p43
+I155
+sS'Pokoot'
+p44
+I89
+sS'Arabic Sudanese Spoken'
+p45
+I79
+sS'Kiche Cunen'
+p46
+I39
+sS'Kolami Northwestern'
+p47
+I149
+sS'Ese Ejja'
+p48
+I77
+sS'Anufo'
+p49
+I59
+sS'Khasi'
+p50
+I40
+sS'Avokaya'
+p51
+I131
+sS'Galela'
+p52
+I174
+sS'Oromo Eastern'
+p53
+I75
+sS'Napu'
+p54
+I68
+sS'Marba_Azumeina'
+p55
+I130
+sS'Teribe'
+p56
+I2
+sS'Waimaha'
+p57
+I171
+sS'Tektiteko'
+p58
+I1
+sS'Moro'
+p59
+I24
+sS'Kui'
+p60
+I80
+sS'Mazahua Central'
+p61
+I153
+sS'Sauria Paharia'
+p62
+I125
+sS'Awadhi'
+p63
+I167
+sS'Sasak'
+p64
+I74
+sS'Zapotec Isthmus'
+p65
+I31
+sS'Patamona'
+p66
+I55
+sS'Gamo'
+p67
+I38
+sS'Aguaruna Awajun'
+p68
+I160
+sS'Thai'
+p69
+I133
+sS'Tepehua Tlachichilco'
+p70
+I14
+sS'Murle'
+p71
+I113
+sS'Kalabari'
+p72
+I141
+sS'Chayahuita Shawi'
+p73
+I21
+sS'Madi'
+p74
+I60
+sS'Chamacoco'
+p75
+I51
+sS'Polish'
+p76
+I72
+sS'Bhojpuri'
+p77
+I76
+sS'Tamasheq'
+p78
+I129
+sS'Quechua MargosYarowilcaLauricocha'
+p79
+I73
+sS'Palaung Ruching'
+p80
+I134
+sS'Guahibo'
+p81
+I172
+sS'Luwo'
+p82
+I45
+sS'Belize Kriol English'
+p83
+I85
+sS'Waiwai'
+p84
+I9
+sS'Tobelo'
+p85
+I15
+sS'Arabic'
+p86
+I122
+sS'Malagasy Plateau'
+p87
+I109
+sS'Bora'
+p88
+I8
+sS'Carib'
+p89
+I71
+sS'Mongolian Halh'
+p90
+I169
+sS'Samoan'
+p91
+I124
+sS'Jingpho'
+p92
+I95
+sS'Maka'
+p93
+I152
+sS'Sanuma'
+p94
+I136
+sS'Ipili'
+p95
+I78
+sS'Awa PNG'
+p96
+I66
+sS'Hindi'
+p97
+I52
+sS'Tol'
+p98
+I121
+sS'Akoose'
+p99
+I137
+sS'Maya Mopan'
+p100
+I158
+sS'Tuva'
+p101
+I30
+sS'Bali'
+p102
+I128
+sS'Malay'
+p103
+I127
+sS'Shuar'
+p104
+I48
+sS'Garhwali'
+p105
+I57
+sS'Themne'
+p106
+I82
+sS'Tzeltal Bachajon'
+p107
+I62
+sS'Kazakh'
+p108
+I139
+sS'Yawa'
+p109
+I28
+sS'Ticuna'
+p110
+I114
+sS'Gidar'
+p111
+I5
+sS'Bokyi'
+p112
+I101
+sS'MofuGudur'
+p113
+I34
+sS'Karakalpak'
+p114
+I70
+sS'Korean South'
+p115
+I156
+sS'Karamojong'
+p116
+I166
+sS'Javanese'
+p117
+I33
+sS'Quechua North Junin'
+p118
+I13
+sS'Aruamu'
+p119
+I25
+sS'Kuman'
+p120
+I116
+sS'Otomi Mezquital'
+p121
+I120
+sS'Ojibwa Northwestern'
+p122
+I112
+sS'Romani Sinti'
+p123
+I143
+sS'Nigerian Pidgin'
+p124
+I10
+sS'Paez'
+p125
+I91
+sS'Kannada'
+p126
+I138
+sS'Kumyk'
+p127
+I111
+sS'Bekwarra'
+p128
+I41
+sS'Pampangan'
+p129
+I20
+sS'Aymara'
+p130
+I117
+sS'Eleme'
+p131
+I148
+sS'Qeqchi'
+p132
+I170
+sS'Ixil Nebaj'
+p133
+I132
+sS'Alladian'
+p134
+I50
+sS'Huambisa'
+p135
+I23
+sS'Vietnamese'
+p136
+I18
+sS'Musgu'
+p137
+I35
+sS'Romanian'
+p138
+I90
+sS'Kashinawa'
+p139
+I69
+sS'Dutch'
+p140
+I6
+sS'Lao'
+p141
+I53
+sS'Lobi'
+p142
+I104
+sS'Adiokrou'
+p143
+I54
+sS'Nahuatl Guerrero'
+p144
+I84
+sS'Biate'
+p145
+I118
+sS'Altai Southern'
+p146
+I126
+sS'Chuj Ixtatan'
+p147
+I151
+sS'Pamona_Bahasa Taa'
+p148
+I98
+sS'KalmykOirat'
+p149
+I4
+sS'Parecis'
+p150
+I81
+sS'Lampung Api'
+p151
+I43
+sS'Akha'
+p152
+I142
+sS'Arabic Egyptian Spoken'
+p153
+I94
+sS'Chinantec de Usila'
+p154
+I22
+sS'Totonac Highland'
+p155
+I175
+sS'Chipaya'
+p156
+I3
+sS'Dan East'
+p157
+I37
+sS'Kilivila Kiriwina'
+p158
+I65
+sS'Sango'
+p159
+I106
+sS'Paumari'
+p160
+I49
+sS'Kera'
+p161
+I157
+sS'Trio'
+p162
+I173
+sS'Bru Eastern'
+p163
+I154
+sS'Azerbaijani North'
+p164
+I145
+sS'Duri'
+p165
+I164
+sS'Terena'
+p166
+I135
+sS'Mongondow'
+p167
+I83
+sS'Mixtec Ayutla'
+p168
+I67
+sS'Vai'
+p169
+I165
+sS'Pijin'
+p170
+I44
+sS'Tucano'
+p171
+I97
+sS'Mundari'
+p172
+I19
+sS'Wichi Lhamtes Nocten Weenhayek'
+p173
+I17
+sS'Cofan'
+p174
+I103
+sS'Ashaninca'
+p175
+I163
+sS'Bicolano Central'
+p176
+I32
+s.

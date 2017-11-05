@@ -1,0 +1,530 @@
+(dp0
+I0
+S'Hmong Daw'
+p1
+sI1
+S'Tektiteko'
+p2
+sI2
+S'Teribe'
+p3
+sI3
+S'Chipaya'
+p4
+sI4
+S'KalmykOirat'
+p5
+sI5
+S'Gidar'
+p6
+sI6
+S'Dutch'
+p7
+sI7
+S'Konso'
+p8
+sI8
+S'Bora'
+p9
+sI9
+S'Waiwai'
+p10
+sI10
+S'Nigerian Pidgin'
+p11
+sI11
+S'CandoshiShapra'
+p12
+sI12
+S'ShipiboConibo'
+p13
+sI13
+S'Quechua North Junin'
+p14
+sI14
+S'Tepehua Tlachichilco'
+p15
+sI15
+S'Tobelo'
+p16
+sI16
+S'Zapotec Sierra de Juarez'
+p17
+sI17
+S'Wichi Lhamtes Nocten Weenhayek'
+p18
+sI18
+S'Vietnamese'
+p19
+sI19
+S'Mundari'
+p20
+sI20
+S'Pampangan'
+p21
+sI21
+S'Chayahuita Shawi'
+p22
+sI22
+S'Chinantec de Usila'
+p23
+sI23
+S'Huambisa'
+p24
+sI24
+S'Moro'
+p25
+sI25
+S'Aruamu'
+p26
+sI26
+S'Kok Borok'
+p27
+sI27
+S'Huli'
+p28
+sI28
+S'Yawa'
+p29
+sI29
+S'Ignaciano'
+p30
+sI30
+S'Tuva'
+p31
+sI31
+S'Zapotec Isthmus'
+p32
+sI32
+S'Bicolano Central'
+p33
+sI33
+S'Javanese'
+p34
+sI34
+S'MofuGudur'
+p35
+sI35
+S'Musgu'
+p36
+sI36
+S'Albanian Tosk'
+p37
+sI37
+S'Dan East'
+p38
+sI38
+S'Gamo'
+p39
+sI39
+S'Kiche Cunen'
+p40
+sI40
+S'Khasi'
+p41
+sI41
+S'Bekwarra'
+p42
+sI42
+S'Dinka Northeastern'
+p43
+sI43
+S'Lampung Api'
+p44
+sI44
+S'Pijin'
+p45
+sI45
+S'Luwo'
+p46
+sI46
+S'Hiligaynon'
+p47
+sI47
+S'Quechua Southern Conchucos Ancash'
+p48
+sI48
+S'Shuar'
+p49
+sI49
+S'Paumari'
+p50
+sI50
+S'Alladian'
+p51
+sI51
+S'Chamacoco'
+p52
+sI52
+S'Hindi'
+p53
+sI53
+S'Lao'
+p54
+sI54
+S'Adiokrou'
+p55
+sI55
+S'Patamona'
+p56
+sI56
+S'Cakchiquel South Central'
+p57
+sI57
+S'Garhwali'
+p58
+sI58
+S'Munukutuba'
+p59
+sI59
+S'Anufo'
+p60
+sI60
+S'Madi'
+p61
+sI61
+S'Duala'
+p62
+sI62
+S'Tzeltal Bachajon'
+p63
+sI63
+S'Yali Angguruk'
+p64
+sI64
+S'Quechua Eastern'
+p65
+sI65
+S'Kilivila Kiriwina'
+p66
+sI66
+S'Awa PNG'
+p67
+sI67
+S'Mixtec Ayutla'
+p68
+sI68
+S'Napu'
+p69
+sI69
+S'Kashinawa'
+p70
+sI70
+S'Karakalpak'
+p71
+sI71
+S'Carib'
+p72
+sI72
+S'Polish'
+p73
+sI73
+S'Quechua MargosYarowilcaLauricocha'
+p74
+sI74
+S'Sasak'
+p75
+sI75
+S'Oromo Eastern'
+p76
+sI76
+S'Bhojpuri'
+p77
+sI77
+S'Ese Ejja'
+p78
+sI78
+S'Ipili'
+p79
+sI79
+S'Arabic Sudanese Spoken'
+p80
+sI80
+S'Kui'
+p81
+sI81
+S'Parecis'
+p82
+sI82
+S'Themne'
+p83
+sI83
+S'Mongondow'
+p84
+sI84
+S'Nahuatl Guerrero'
+p85
+sI85
+S'Belize Kriol English'
+p86
+sI86
+S'Hadiyya'
+p87
+sI87
+S'Quechua Southern Pastaza'
+p88
+sI88
+S'Jur Modo'
+p89
+sI89
+S'Pokoot'
+p90
+sI90
+S'Romanian'
+p91
+sI91
+S'Paez'
+p92
+sI92
+S'Mentawai'
+p93
+sI93
+S'Shilluk'
+p94
+sI94
+S'Arabic Egyptian Spoken'
+p95
+sI95
+S'Jingpho'
+p96
+sI96
+S'Kyrgyz'
+p97
+sI97
+S'Tucano'
+p98
+sI98
+S'Pamona_Bahasa Taa'
+p99
+sI99
+S'Dangaleat'
+p100
+sI100
+S'Jola Kasa'
+p101
+sI101
+S'Bokyi'
+p102
+sI102
+S'Nahuatl Northern Puebla'
+p103
+sI103
+S'Cofan'
+p104
+sI104
+S'Lobi'
+p105
+sI105
+S'Teso'
+p106
+sI106
+S'Sango'
+p107
+sI107
+S'Morisyen'
+p108
+sI108
+S'Korean North'
+p109
+sI109
+S'Malagasy Plateau'
+p110
+sI110
+S'Nahuatl Highland Puebla'
+p111
+sI111
+S'Kumyk'
+p112
+sI112
+S'Ojibwa Northwestern'
+p113
+sI113
+S'Murle'
+p114
+sI114
+S'Ticuna'
+p115
+sI115
+S'Peve'
+p116
+sI116
+S'Kuman'
+p117
+sI117
+S'Aymara'
+p118
+sI118
+S'Biate'
+p119
+sI119
+S'Alangan'
+p120
+sI120
+S'Otomi Mezquital'
+p121
+sI121
+S'Tol'
+p122
+sI122
+S'Arabic'
+p123
+sI123
+S'Tepehua Pisaflores'
+p124
+sI124
+S'Samoan'
+p125
+sI125
+S'Sauria Paharia'
+p126
+sI126
+S'Altai Southern'
+p127
+sI127
+S'Malay'
+p128
+sI128
+S'Bali'
+p129
+sI129
+S'Tamasheq'
+p130
+sI130
+S'Marba_Azumeina'
+p131
+sI131
+S'Avokaya'
+p132
+sI132
+S'Ixil Nebaj'
+p133
+sI133
+S'Thai'
+p134
+sI134
+S'Palaung Ruching'
+p135
+sI135
+S'Terena'
+p136
+sI136
+S'Sanuma'
+p137
+sI137
+S'Akoose'
+p138
+sI138
+S'Kannada'
+p139
+sI139
+S'Kazakh'
+p140
+sI140
+S'Fai South'
+p141
+sI141
+S'Kalabari'
+p142
+sI142
+S'Akha'
+p143
+sI143
+S'Romani Sinti'
+p144
+sI144
+S'Khmer Northern'
+p145
+sI145
+S'Azerbaijani North'
+p146
+sI146
+S'Bench'
+p147
+sI147
+S'Naga Ao'
+p148
+sI148
+S'Eleme'
+p149
+sI149
+S'Kolami Northwestern'
+p150
+sI150
+S'Huave de San Mateo del Mar'
+p151
+sI151
+S'Chuj Ixtatan'
+p152
+sI152
+S'Maka'
+p153
+sI153
+S'Mazahua Central'
+p154
+sI154
+S'Bru Eastern'
+p155
+sI155
+S'Sebat Bet Gurage_Gurage Chaha'
+p156
+sI156
+S'Korean South'
+p157
+sI157
+S'Kera'
+p158
+sI158
+S'Maya Mopan'
+p159
+sI159
+S'Palauan'
+p160
+sI160
+S'Aguaruna Awajun'
+p161
+sI161
+S'Ilokano'
+p162
+sI162
+S'Koorete'
+p163
+sI163
+S'Ashaninca'
+p164
+sI164
+S'Duri'
+p165
+sI165
+S'Vai'
+p166
+sI166
+S'Karamojong'
+p167
+sI167
+S'Awadhi'
+p168
+sI168
+S'Guayabero'
+p169
+sI169
+S'Mongolian Halh'
+p170
+sI170
+S'Qeqchi'
+p171
+sI171
+S'Waimaha'
+p172
+sI172
+S'Guahibo'
+p173
+sI173
+S'Trio'
+p174
+sI174
+S'Galela'
+p175
+sI175
+S'Totonac Highland'
+p176
+s.
