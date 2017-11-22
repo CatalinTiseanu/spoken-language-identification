@@ -14,4 +14,4 @@ The main program is in src/main.py. To run it, use python2.7.
 
 eg: ```python2.7 main.py init```
 
-The neccesary environment setup can be done with src/build_script.sh (for Ubuntu)
+The necessary environment setup can be done with src/build_script.sh (for Ubuntu)
